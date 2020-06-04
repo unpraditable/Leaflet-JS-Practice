@@ -1,0 +1,3 @@
+Docker adalah sebuah platform untuk membangun, mengemas, dan menjalankan aplikasi apapun dengan menggunakan sebuah container yang lightweight. Container ini berisi aplikasi , library, dan file konfigurasi, serta file-file lain yang mendukung untuk pembuatan aplikasi tersebut. Docker juga memiliki fitur sandbox untuk memisahkan environment pengembangan, produksi, dan testing.
+
+Docker ini mirip dengan Virtual Machine, atau ekivalen dengan XAMPP dengan yang bisa membungkus PHP, MySQL, dan Apache Tomcat
